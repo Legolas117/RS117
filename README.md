@@ -16,3 +16,28 @@ Los archivos del sistema tienen una puntuacion de la forma x.y.z.
  y -> cambios importantes a sistemas manteniendo la estructura x.
  
  z -> cambios menores y puntuales.
+ 
+
+#### 1.0.1 PBE Update 1
+
+- Changed "three" to "four" on -archetype count-
+
+- Changed "require" to "required" on -learning new spells-
+
+- Changed "magnitude neither" to "potential either" on -cleric's specifics-
+
+- Changed "never the less" to "nevertheless" on -globals-
+
+- Explanation about flexibility of paths rewritten
+
+- All combat classes' bonuses underlined for extra clarity
+
+- Changed "de" to "the" on -faint-
+
+- Changed "move, if you..." to "move. If you..." on -cat like movement-
+
+- Changed "chose" to "choose" on -slashing shape-
+
+- Changed "One under the sleeve" to "Ace up the sleeve" on -thief-
+
+- Changed "how hard is hitting you" to "how difficult is to hit you" on -evasion-
