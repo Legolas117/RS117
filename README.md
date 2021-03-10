@@ -41,3 +41,21 @@ Los archivos del sistema tienen una puntuacion de la forma x.y.z.
 - Changed "One under the sleeve" to "Ace up the sleeve" on -thief-
 
 - Changed "how hard is hitting you" to "how difficult is to hit you" on -evasion-
+
+#### 1.0.1 PBE Update 2
+
+- Changed "never the less" to "nevertheless" in all instances
+
+- Removed "need a free hand" bit in maneuvers
+
+- Condition check changed to CON + WIS from STR + WIS
+
+- Travel check failure changed to -1/4 from -1/2
+
+- Travel check nat 1 changed to -1/2 from -3/4
+
+- Armor weight now is defined at the end of "Evasion, Hit Points and DR"
+
+- Changed "Armor" in character sheet to "Armor & DR"
+
+- Added +Promising+ feature to Vexed
